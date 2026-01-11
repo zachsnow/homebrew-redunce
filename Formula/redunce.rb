@@ -1,6 +1,6 @@
 class Redunce < Formula
   desc "Find potentially redundant code using vector similarity"
-  homepage "https://github.com/ZachSnow/redunce"
+  homepage "https://github.com/zachsnow/redunce"
   url "https://github.com/zachsnow/redunce/archive/v0.1.3.tar.gz"
   sha256 "893f4d91b64f234fb521613e8e0b662b8b1949b80cf5d7bb65ede2437bf9d7ef"
   license "MIT"
