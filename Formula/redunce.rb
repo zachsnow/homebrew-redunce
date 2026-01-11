@@ -1,8 +1,8 @@
 class Redunce < Formula
   desc "Find potentially redundant code using vector similarity"
   homepage "https://github.com/ZachSnow/redunce"
-  url "https://github.com/ZachSnow/redunce/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  url "https://github.com/zachsnow/redunce/archive/v0.1.1.tar.gz"
+  sha256 "b804af40be85ba6df75f66aad7813fd1fdb7dc3698df98c78e6532210ca87e79"
   license "MIT"
 
   depends_on "go" => :build
